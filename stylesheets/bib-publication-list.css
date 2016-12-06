@@ -7,6 +7,7 @@ span.undefined { color:red; }
 .pub { border: 1px solid white; background-color: #eee; }
 .conference { background-color: rgb(245,128,37); }
 .inproceedings { background-color: #ccf; }
+.incollection { background-color: #ccf; }
 .article { background-color: #beb; }
 .inbook { background-color: #eaa; }
 .phdthesis { background-color: #999; }

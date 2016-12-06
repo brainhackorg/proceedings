@@ -163,7 +163,7 @@
  * var addarray                   = {};
  * addarray['entryType']          = 'Article';
  * addarray['cite']               = 'art2';
- * addarray['title']              = 'Titel of the Article';
+ * addarray['title']              = 'Title of the Article';
  * addarray['author'] = [];
  * addarray['author'][0]['first'] = 'John';
  * addarray['author'][0]['last']  = 'Doe';
@@ -749,7 +749,7 @@ function is_array( mixed_var ) {
  * addarray                       = {}
  * addarray['entryType']          = 'Article';
  * addarray['cite']               = 'art2';
- * addarray['title']              = 'Titel2';
+ * addarray['title']              = 'Title2';
  * addarray['author']			  = [];
  * addarray['author'][0]['first'] = 'John';
  * addarray['author'][0]['last']  = 'Doe';
